@@ -1,0 +1,10 @@
+streamlit>=1.35.0
+openpyxl>=3.1.2
+ultralytics>=8.0.0
+easyocr>=1.7.0
+Pillow>=10.0.0
+numpy>=1.25.0
+pandas>=2.0.0
+opencv-python-headless>=4.8.0
+holidays>=0.46
+supabase>=2.4.0

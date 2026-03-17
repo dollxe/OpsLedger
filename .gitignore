@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 내장 Python (배포용, 용량 큼)
+python/
+배포용/python/
+
+# 로컬 DB (사용자 데이터)
+db/
+*.db
+
+# Streamlit 시크릿 (절대 올리면 안 됨)
+.streamlit/secrets.toml
+
+# 엑셀 내보내기 결과물
+exports/
+
+# 모델 파일 (용량 큼)
+models/
+
+# 기타
+.env
+results/
+blank_list/
+packages/

@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import openpyxl; wb = openpyxl.load_workbook\\(''D:/gudul/data/8.대기운영일지\\(4종\\) 엑셀.xlsx''\\); print\\(''Sheets:'', wb.sheetnames\\)\")",
+      "Bash(python:*)",
+      "Bash(python3 -c \":*)",
+      "Bash(pip install holidays pandas openpyxl streamlit)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(\"D:/gudul/.streamlit/config.toml\":*)",
+      "Bash(pip install easyocr)",
+      "Bash(pip install easyocr --user)",
+      "Bash(ls D:/gudul/*.pdf D:/gudul/**/*.pdf)",
+      "Bash(find /y/gudul/src -type f -name *.py)",
+      "Bash(wc -l /y/gudul/src/*.py)"
+    ]
+  }
+}

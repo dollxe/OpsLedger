@@ -1,0 +1,21 @@
+=== sys.path ===
+D:\gudul
+D:\gudul\app.py
+D:\gudul
+D:\gudul
+C:\Users\midu\AppData\Roaming\Python\Python310\site-packages
+D:\gudul
+D:\gudul
+D:\gudul
+D:\gudul
+D:\gudul
+D:\gudul
+D:\gudul
+C:\Users\midu\AppData\Local\Programs\Python\Python310\Scripts\streamlit.exe
+C:\Users\midu\AppData\Local\Programs\Python\Python310\python310.zip
+C:\Users\midu\AppData\Local\Programs\Python\Python310\DLLs
+C:\Users\midu\AppData\Local\Programs\Python\Python310\lib
+C:\Users\midu\AppData\Local\Programs\Python\Python310
+C:\Users\midu\AppData\Local\Programs\Python\Python310\lib\site-packages
+=== easyocr in sys.modules: False
+=== find_spec: None
